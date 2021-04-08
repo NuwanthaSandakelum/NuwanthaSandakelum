@@ -1,6 +1,6 @@
 ### Hi there, I'm Nuwantha Sandakelum 👋
 
-- 👀 I’m interested in C#, .Net Core, .Net MVC, Angular, Docker, Kubernetes 
+- 👀 I’m interested in C#, .Net Core, ASP.Net MVC, Angular, Docker, Kubernetes 
 - 🌱 I’m currently learning Spring Framework and Machine learning
 
 ### Connect with me:
